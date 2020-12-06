@@ -1,6 +1,4 @@
-<!--NAME: TANISH DAGAR
-  ID: B00822133
-  Assignment number: 4 -->
+<!--NAME: TANISH DAGAR-->
 <?php
 	$db_hostname = 'localhost'; 
 	$db_database = 'picturegram';
