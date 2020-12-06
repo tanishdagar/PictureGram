@@ -1,6 +1,4 @@
-<!--NAME: TANISH DAGAR
-  ID: B00822133
-  Assignment number: 4 -->
+<!--NAME: TANISH DAGAR-->
 <?php
  session_start();
  if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"]!==true){
