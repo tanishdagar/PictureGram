@@ -1,0 +1,12 @@
+FRAMEWORK
+
+- In assignment 3 the date format and the design was not correct in this assignment I have tried to do it so. 
+
+- For this assignment new table in the database was created called the login table which stores the username, password, loginID and UserID.
+
+- Sessions was also used in this assignment. If the user is not logged in and wants to open the homepage then the user have to login first. 
+
+- A new php file was also added called createAcount which registers a new user by adding the new values to the database.
+
+- Logout button was created to log out from the session. It can be seen in every page.
+  
